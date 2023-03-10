@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjsdV01l2Q3Wvx6bqJaXLxh42adPxQQfecB/uBPF2kq2Np8tv6wAuyu4kSl2GoKQACgejGCzDJ3RLU8CyuNKcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antsi\\OneDrive\\Документы\\МГТУ\\3 семестр\\Базовые компоненты интернет технологий\\Лабы\\Lab5\\ClassLib\\ClassLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

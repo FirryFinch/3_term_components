@@ -1,0 +1,13 @@
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\bin\Debug\Lab4.exe
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\bin\Debug\Lab4.pdb
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\bin\Debug\ClassLib.dll
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\bin\Debug\ClassLib.pdb
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\obj\Debug\Lab5.csproj.CopyComplete
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\obj\Debug\Lab4.exe
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\Lab4\obj\Debug\Lab4.pdb

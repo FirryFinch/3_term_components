@@ -1,0 +1,7 @@
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab6.2\bin\Debug\Lab6.2.exe.config
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab6.2\bin\Debug\Lab6.2.exe
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab6.2\bin\Debug\Lab6.2.pdb
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab6.2\obj\Debug\Lab6.2.csprojAssemblyReference.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab6.2\obj\Debug\Lab6.2.csproj.CoreCompileInputs.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab6.2\obj\Debug\Lab6.2.exe
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab6.2\obj\Debug\Lab6.2.pdb

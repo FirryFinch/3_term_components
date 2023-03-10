@@ -1,0 +1,13 @@
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache

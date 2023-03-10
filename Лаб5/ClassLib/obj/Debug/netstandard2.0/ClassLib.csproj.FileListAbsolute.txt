@@ -1,0 +1,9 @@
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\ClassLib\bin\Debug\netstandard2.0\ClassLib.deps.json
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\ClassLib\bin\Debug\netstandard2.0\ClassLib.dll
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\ClassLib\bin\Debug\netstandard2.0\ClassLib.pdb
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\ClassLib\obj\Debug\netstandard2.0\ClassLib.csprojAssemblyReference.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfoInputs.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfo.cs
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\ClassLib\obj\Debug\netstandard2.0\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\ClassLib\obj\Debug\netstandard2.0\ClassLib.dll
+C:\Users\antsi\OneDrive\Документы\МГТУ\3 семестр\Базовые компоненты интернет технологий\Лабы\Lab5\ClassLib\obj\Debug\netstandard2.0\ClassLib.pdb
